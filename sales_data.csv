@@ -1,0 +1,11 @@
+OrderID,OrderDate,Region,State,Product,Category,SalesAmount,Quantity
+1001,2023-01-05,West,Maharashtra,Laptop,Electronics,55000,1
+1002,2023-01-08,North,Delhi,Mobile,Electronics,22000,2
+1003,2023-01-15,South,Karnataka,Chair,Furniture,8000,4
+1004,2023-02-02,West,Gujarat,Table,Furniture,12000,1
+1005,2023-02-10,East,West Bengal,Mobile,Electronics,18000,1
+1006,2023-02-18,North,Uttar Pradesh,Laptop,Electronics,60000,1
+1007,2023-03-05,South,Tamil Nadu,Sofa,Furniture,30000,1
+1008,2023-03-12,West,Maharashtra,Mobile,Electronics,25000,2
+1009,2023-03-18,East,Odisha,Chair,Furniture,7000,3
+1010,2023-03-25,North,Punjab,Table,Furniture,15000,2
